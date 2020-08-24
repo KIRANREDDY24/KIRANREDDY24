@@ -19,10 +19,10 @@ I am a Computer Science graduate with good technical skills, a firm grasp of bus
 
 
 ## SKILLS & ABILITIES
-    A high level of mathematical ability and Problem-solving
-    Java and C programming
-    Team-working and Interpersonal skills
-    The ability to analyze, model and interpret data.
+    > A high level of mathematical ability and Problem-solving
+    > Java and C programming
+    > Team-working and Interpersonal skills
+    > The ability to analyze, model and interpret data.
 
 
 ## Data Analyst specific skills
