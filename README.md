@@ -45,16 +45,27 @@ I am a Computer Science graduate with good technical skills, a firm grasp of bus
 
 
 ##### CERTIFICATIONS
+
+
 ###### PROBLEM SOLVING BASIC
-https://www.hackerrank.com/certificates/ed7e5b7ecb13
 ![PROBLEM SOLVING BASIC](download.png)
 
+https://www.hackerrank.com/certificates/ed7e5b7ecb13
 
-[PYTHON BASIC](https://www.hackerrank.com/certificates/c6077ca410ce)
-![PYTHON BASIC](download1.png)
 
-[JAVA BASIC](https://www.hackerrank.com/certificates/5790976b71e3)
-![JAVA BASIC](download2.png)
+###### PYTHON BASIC
+![PYTHON BASIC](download (1).png)
 
-[PROBLEM SOLVING INTERMEDIATE](https://www.hackerrank.com/certificates/9752a68f1289)
-![PROBLEM SOLVING INTERMEDIATE](download3.png)
+https://www.hackerrank.com/certificates/c6077ca410ce
+
+
+###### JAVA BASIC
+![JAVA BASIC](download (2).png)
+
+https://www.hackerrank.com/certificates/5790976b71e3
+
+
+###### PROBLEM SOLVING INTERMEDIATE
+![PROBLEM SOLVING INTERMEDIATE](download (3).png)
+
+https://www.hackerrank.com/certificates/9752a68f1289
