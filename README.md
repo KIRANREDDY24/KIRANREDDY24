@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Kiran Kumar Reddy and I am a Computer Science graduate with good technical skills, a firm grasp of business needs, and an understanding of user requirements. Excellent communication and planning abilities. Acquired programming skills in Data Science with a focus on python. Currently looking for opportunities in Data Science, especially where my strength in picking up new technologies as well as being able to add value to the business and team. I enjoy the idea of finding answers to difficult questions.
+I'm Kiran Reddy a Computer Science undergrad with good technical skills, a firm grasp of business needs, and an understanding of user requirements. Excellent communication and planning abilities. Acquired programming skills in Data Science with a focus on python. Currently looking for opportunities in Data Science, especially where my strength in picking up new technologies as well as being able to add value to the business and team. I enjoy the idea of finding answers to difficult questions.
 
 
 #### SKILLS & ABILITIES
