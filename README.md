@@ -55,6 +55,8 @@ I'm Kiran Reddy a Computer Science undergrad with good technical skills, a firm 
 - The ability to analyze, model and interpret data.
 
 
+
+
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" 
 
 
@@ -68,9 +70,9 @@ I'm Kiran Reddy a Computer Science undergrad with good technical skills, a firm 
 |----------------------|-------------------------------|--------------------|
 |Python                |   Data cleaning               |   R                |
 |SQL                   |   Linux and Command Line      |   Machine Learning |
-|Jupyter Notebook      |  Data visualization           |   AWS              |
-|Pandas and NumPy      |  Matplotlib                   |   Seaborn          |
-|Predictive Analytics  |  Tableau                      |                    |
+|Jupyter Notebook      |   Data visualization          |   Tableau          |
+|Pandas and NumPy      |   Matplotlib                  |   Seaborn          |
+|Git and GitHub        |   Predictive Analytics        |                    |
 
 
 #### PROJECTS
