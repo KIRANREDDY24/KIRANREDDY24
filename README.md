@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 
 I'm Kiran Reddy a Computer Science undergrad with good technical skills, a firm grasp of business needs, and an understanding of user requirements. Excellent communication and planning abilities. Acquired programming skills in Data Science with a focus on python. Currently looking for opportunities in Data Science, especially where my strength in picking up new technologies as well as being able to add value to the business and team. I enjoy the idea of finding answers to difficult questions.
 
+
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kiranreddy24" alt="kiranreddy24" /> </p>
+
+#### CONTACT ME
+
 <p align="center">
 <a href="https://twitter.com/kiran_reddy24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kiran_reddy24" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/kiranreddy24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kiranreddy24" height="30" width="30" /></a>
