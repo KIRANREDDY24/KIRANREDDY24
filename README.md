@@ -29,7 +29,7 @@ I'm Kiran Reddy a Computer Science undergrad with good technical skills, a firm 
 <a href="https://stackoverflow.com/users/user:12526659" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:12526659" height="30" width="30" /></a>
 <a href="https://kaggle.com/kiranreddy24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kiranreddy24" height="30" width="30" /></a>
 <a href="https://instagram.com/kiran__kumar__reddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kiran__kumar__reddy" height="30" width="30" /></a>
-<a href="https://medium.com/kiran_reddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kiran_reddy" height="30" width="30" /></a>
+<a href="https://medium.com/@kiran_reddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kiran_reddy" height="30" width="30" /></a>
 </p>
 
 
