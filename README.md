@@ -34,9 +34,9 @@ I'm Kiran Reddy a Computer Science undergrad with good technical skills, a firm 
 
 
 
-- 🔭 I’m currently working on **COVID-19 data visualization**
+- 🔭 I’m currently working on **COVID-19 data visualization and PYGAME**
 
-- 🌱 I’m currently learning **Tensor Flow, PyTorch, Tableau, R, Data Science, Machine Learning**
+- 🌱 I’m currently learning **Tableau, R, Data Science**
 
 - 👯 I’m looking to collaborate on **data visualization**
 
@@ -76,16 +76,17 @@ src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt=
 |----------------------|-------------------------------|--------------------|
 |Python                |   Data cleaning               |   R                |
 |SQL                   |   Linux and Command Line      |   Machine Learning |
-|Jupyter Notebook      |   Data visualization          |   Tableau          |
-|Pandas and NumPy      |   Matplotlib                  |   Seaborn          |
-|Git and GitHub        |   Predictive Analytics        |                    |
+|Pandas and NumPy      |   Data visualization          |   Tableau          |
+|Jupyter Notebook      |   Matplotlib                  |                    |
+|Git and GitHub        |                               |                    |
 
 
 #### PROJECTS
 - COMPUTER ADAPTIVE EXAMINATION SYSTEM
 - VISUALIZING COIVD-19
-- LIVE STOCK MARKET SHARE PRICE VISUALIZER
-
+- GRADEBOOK WITH PANDAS & PYTHON
+- STOCK MARKET SHARE PRICE VISUALIZER
+- DESKTOP CALCULATOR
 
 
 
