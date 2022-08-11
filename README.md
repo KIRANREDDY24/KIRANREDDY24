@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kiran Reddy a Computer Science undergrad with good technical skills, a firm grasp of business needs, and an understanding of user requirements. Excellent communication and planning abilities. Acquired programming skills in Data Science with a focus on python. Currently looking for opportunities in Data Science, especially where my strength in picking up new technologies as well as being able to add value to the business and team. I enjoy the idea of finding answers to difficult questions.
+I'm Kiran Reddy a Data Science postgrad with good technical skills, a firm grasp of business needs, and an understanding of user requirements. Excellent communication and planning abilities. Acquired programming skills in Data Science with a focus on python. Currently looking for opportunities in Data Science, especially where my strength in picking up new technologies as well as being able to add value to the business and team. I enjoy the idea of finding answers to difficult questions.
 
 
 </p>
@@ -34,11 +34,11 @@ I'm Kiran Reddy a Computer Science undergrad with good technical skills, a firm 
 
 
 
-- 🔭 I’m currently working on **COVID-19 data visualization and PYGAME**
+- 🔭 I’m currently working on **Developing ML models**
 
-- 🌱 I’m currently learning **Tableau, R, Data Science**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Advanced Database Desgin Concepts**
 
-- 👯 I’m looking to collaborate on **data visualization**
+- 👯 I’m looking to collaborate on **Machine Learning**
 
 - 🤝 I’m looking for help with **numpy, pandas and matplotlib**
 
@@ -77,8 +77,8 @@ src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt=
 |Python                |   Data cleaning               |   R                |
 |SQL                   |   Linux and Command Line      |   Machine Learning |
 |Pandas and NumPy      |   Data visualization          |   Tableau          |
-|Jupyter Notebook      |   Matplotlib                  |                    |
-|Git and GitHub        |                               |                    |
+|Jupyter Notebook      |   Matplotlib                  |   Deep Learning    |
+|Git and GitHub        |   Statistics                  |                    |
 
 
 #### PROJECTS
